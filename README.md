@@ -22,11 +22,11 @@ Through this repository, I am working towards:
 
 ---
 
-## 🛠️ Language Used
+##  Language Used
 
 | Language | Usage |
 |----------|-------|
-| ☕ Java | Main programming language |
+|  Java | Main programming language |
 
 ### Java Concepts Used
 
@@ -56,7 +56,7 @@ Throughout the repository, I practice:
 
 ---
 
-# 📚 DSA Topics
+#  DSA Topics
 
 The repository is organized around the major DSA concepts I am learning.
 

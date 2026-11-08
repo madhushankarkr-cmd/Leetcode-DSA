@@ -41,3 +41,6 @@ class Solution {
         return dummy.next;
     }
 }
+
+// TC- O(nlogn)
+// SC- O(n)

@@ -1,6 +1,6 @@
 #  Data Structures & Algorithms — LeetCode Solutions
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository! 👋
+Welcome to my **Data Structures and Algorithms (DSA)** repository! 
 
 This repository contains my solutions to **LeetCode problems and other DSA practice questions**, primarily implemented in **Java**.
 
